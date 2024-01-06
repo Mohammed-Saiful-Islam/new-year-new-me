@@ -45,3 +45,56 @@ header {
     font-weight: 600;
     float: right;
 }
+
+.main-top {
+    width: 1200px;
+    display: inline-flex;
+    margin-top: 125px;
+    margin-left: 250px;
+    
+}
+
+.main-top-picture {
+    width: 550px;
+}
+
+.pro-pic {
+    width: 527.929px;
+    height: 527.929px;
+    border-radius: 527.929px;
+    background: rgba(241, 91, 34, 0.20);
+}
+
+.main-top-text {
+    width: 550px;
+    margin-left: 75px;
+}
+
+.main-top-headline {
+    width: 288px;
+    color:  #151414;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.main-top-paragraph {
+    width: 416px;
+    color: #444343;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    /* 162.5% */
+}
+
+.failures-list {
+    color: #444343;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    /* 162.5% */
+}
