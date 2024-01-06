@@ -109,7 +109,11 @@ header {
 
 .main-middle-boxes {}
 
-.main-middle-box-element {}
+.main-middle-box-element {
+    display: inline-block;
+    margin-left: 70px;
+    text-align: center;
+}
 
 
 .main-middle-box-icon {
