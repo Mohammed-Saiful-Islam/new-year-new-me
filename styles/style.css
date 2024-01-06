@@ -51,7 +51,7 @@ header {
     display: inline-flex;
     margin-top: 125px;
     margin-left: 250px;
-    
+
 }
 
 .main-top-picture {
@@ -72,18 +72,14 @@ header {
 
 .main-top-headline {
     width: 288px;
-    color:  #151414;
-    font-family: Work Sans;
+    color: #151414;
     font-size: 40px;
-    font-style: normal;
     font-weight: 700;
-    line-height: normal;
 }
 
 .main-top-paragraph {
     width: 416px;
     color: #444343;
-
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
@@ -92,9 +88,43 @@ header {
 
 .failures-list {
     color: #444343;
-
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
     /* 162.5% */
+}
+
+.main-middle {
+    width: 1200px;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+.main-middle-headline {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.main-middle-boxes {}
+
+.main-middle-box-element {}
+
+
+.main-middle-box-icon {
+    width: 92.958px;
+    height: 92.958px;
+}
+
+.main-middle-box-headline {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.main-middle-box-paragraph {
+    color: #737272;
+    font-size: 25px;
+    font-weight: 500;
 }
